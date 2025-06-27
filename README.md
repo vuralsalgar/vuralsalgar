@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vural Salğar 👋
 
-<!--
-**vuralsalgar/vuralsalgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about Software Development, AI, and Game Design  
+🌍 Languages: Turkish (native), English (B2+), French (in progress)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, JavaScript, C#
+- 🌐 Web: HTML, CSS, React, Next.js, TailwindCSS
+- 🔧 Backend: Node.js, FastAPI, Flask
+- 🗃️ Databases: MySQL, MongoDB
+- ⚙️ Tools: Git, Docker, Linux, Nginx
+- 🎮 Game Dev: Unity (C#), Godot (GDScript)
+
+---
+
+
+## 📫 Reach Me
+
+- 🌐 [vuraldev.com](https://vuraldev.com)
+- 🎙️ [polifm.com](https://polifm.com)
+- 📧 vuralsalgar@gmail.com
